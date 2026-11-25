@@ -1,0 +1,9 @@
+[submodule "agente"]
+	path = agente
+	url = https://github.com/eliana327/agente.git
+[submodule "agentes_limpio"]
+	path = agentes_limpio
+	url = https://github.com/eliana327/agentes_limpio.git
+[submodule "autoscaling"]
+	path = autoscaling
+	url = https://github.com/eliana327/autoscaling.git
