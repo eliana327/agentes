@@ -59,3 +59,7 @@ dist/
 Thumbs.db
 .vscode/
 .idea/
+
+agente_respaldo/
+agentes/
+agentes_kaku/
